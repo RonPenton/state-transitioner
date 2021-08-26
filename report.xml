@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="7" failures="0" errors="0" time="3.374">
+  <testsuite name="transitioner:" errors="0" failures="0" skipped="0" timestamp="2021-08-26T15:32:05" time="3.046" tests="7">
+    <testcase classname="transitioner: stateless allows transitions" name="transitioner: stateless allows transitions" time="0.003">
+    </testcase>
+    <testcase classname="transitioner: stateful throws on invalid start state" name="transitioner: stateful throws on invalid start state" time="0.018">
+    </testcase>
+    <testcase classname="transitioner: stateful allows changing start state" name="transitioner: stateful allows changing start state" time="0">
+    </testcase>
+    <testcase classname="transitioner: stateful allows transitions" name="transitioner: stateful allows transitions" time="0">
+    </testcase>
+    <testcase classname="transitioner: stateful throws" name="transitioner: stateful throws" time="0.001">
+    </testcase>
+    <testcase classname="transitioner: no end states" name="transitioner: no end states" time="0">
+    </testcase>
+    <testcase classname="transitioner: stateful logs" name="transitioner: stateful logs" time="0">
+    </testcase>
+  </testsuite>
+</testsuites>
